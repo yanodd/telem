@@ -43,4 +43,4 @@
 
 ### Paiania
 
-![paiania lab diagram](https://gitlab.otenet.gr/yanodd/Arbor-deployment/blob/master/telemetry.jpg)
+![xxx](https://drive.google.com/file/d/1Lr1JeHWq3yUbEe_ELp9tQSUU5HuFWpkC/view?usp=sharing)
