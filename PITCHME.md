@@ -1,5 +1,7 @@
 # Introduction to Telemetry
 
+---
+
 ### *“With model-driven telemetry (MDT), routers can stream out large amounts of operational data in a highly efficient, easily consumable way”*
 
 ---
