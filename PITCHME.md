@@ -40,6 +40,13 @@
 
 - Psalidi (w/ Nucleus)
 - Paiania 
-  - 
+  - local ASR streaming IfStats, CPU/MEM, QoS
+  - Pipeline to collect
+  - InfluxDB as TSDB
+  - Grafana as Frontend
+
+---
+
+## Paiania Lab Diagram
 
 ![painia lab diagram](http://loco.otenet.gr/telemetry.png)
