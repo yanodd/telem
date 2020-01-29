@@ -10,7 +10,7 @@
 
 - Pull model to gather Operational stats
 - Scaling (e.g. Syslog, SNMP)
-- CPU load (e.g. Syslog, SNMP
+- CPU load (e.g. Syslog, SNMP)
 - Complex Structure (e.g SMI)
 - In other words: **lack of efficiency**
     
@@ -22,8 +22,7 @@
 - big data storage & analysis (store and analyze)
 - Dial out model (no polling, CPU-friendly)
 - many consuming needs
-- Event prediction 
-- Automated actions
+- Event prediction  & Automated actions (pool allocations)
 
 ---
 
@@ -37,10 +36,10 @@
 
 ---
 
-## PoCs
+## Early PoCs
 
-### Psalidi (w/ Nucleus)
-
-### Paiania
+- Psalidi (w/ Nucleus)
+- Paiania 
+  - 
 
 ![painia lab diagram](http://loco.otenet.gr/telemetry.png)
