@@ -33,6 +33,7 @@
 - data on-change functionality
 - Get as much data off the box as quickly as possible
 - Flexible data serialization (fit own tools and automation procedures)
+- Cisco's MDT utilizes YANG to model data
 
 ---
 
